@@ -8,7 +8,7 @@
 ### 🔧 What I Do
 - 💡 Develop trading bots and backend systems with Python and Freqtrade.
 - 📊 Handle data pipelines, from crawling to processing and storage.
-- 🧠 Explore AI applications in games and automation (check out my [SnakeGame AI](https://github.com/dangnuyen-vau/SnakeGameA)).
+- 🧠 Explore AI applications in games and automation (check out my [SnakeGame AI](https://github.com/dangnguyen-vau/SnakeGameAI)).
 
 ---
 
