@@ -19,8 +19,18 @@
 - 🤖 **Trading Bot Development (Internship Project)**  
   Contributed to data ingestion, bot strategy logic, and backtesting using Freqtrade within a trading automation team.
 
-- 📦 **Event Reminder System (Freelance Project)**  
-  Backend for an intelligent event scheduler, combining user messaging and restaurant booking with chatbot integration.
+- 🧴 AI-powered Skincare Platform – MOONSHOOT Internship (Apr – May 2025)
+Worked as a full-stack developer on a skincare platform with AI chatbot, product recommendation, and image-based analysis.
+
+Built backend APIs with FastAPI, implemented Magic Link & OTP login.
+
+Migrated DB layer from sync to async for better performance.
+
+Created adaptive crawlers (Selenium + BeautifulSoup) for product data from vendors.
+
+Integrated OpenRouter & Meilisearch for AI chat and semantic product search.
+
+Improved frontend (Vue.js) with interactive UI and image upload features.
 
 ---
 
