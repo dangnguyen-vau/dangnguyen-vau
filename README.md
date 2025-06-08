@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Dang Nguyen!
 
 🎓 I’m an Information Technology student at Vietnam Aviation Academy, expected to graduate in Aug 2025.  
-🚀 I’m passionate about building real-world applications with a strong focus on **AI**, **data engineering**, and **backend systems**.
+🚀 I’m passionate about building real-world applications with a strong focus on **AI**, **data engineering**, and **backend systems**.  
 🖇️ (Feel free to check out my [CV](https://github.com/dangnguyen-vau/dangnguyen-vau/blob/main/CV_DANGNGUYEN.pdf)).
 
 ---
