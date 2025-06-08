@@ -26,7 +26,7 @@
   
   Improved frontend (Vue.js) with interactive UI and image upload features.
 
-  - 🤖 **Trading Bot Developer Intern – AITSOFT**  
+- 🤖 **Trading Bot Developer Intern – AITSOFT**  
   Built automated trading strategies with Python and Freqtrade. Processed historical data using Pandas, applied technical indicators (EMA, RSI), and collaborated with traders to optimize bot performance.
 
 - 🐍 **AI Snake Game – Reinforcement Learning**  
