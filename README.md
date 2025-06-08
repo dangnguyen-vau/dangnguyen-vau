@@ -13,7 +13,7 @@
 ---
 
 ### 📌 Highlighted Projects
-- 🧴 AI-powered Skincare Platform – MOONSHOOT Internship (Apr – May 2025)
+- 🧴 AI-powered Skincare Platform – MOONSHOOT Internship
   Worked as a full-stack developer on a skincare platform with AI chatbot, product recommendation, and image-based analysis.
   
   Built backend APIs with FastAPI, implemented Magic Link & OTP login.
@@ -25,12 +25,12 @@
   Integrated OpenRouter & Meilisearch for AI chat and semantic product search.
   
   Improved frontend (Vue.js) with interactive UI and image upload features.
-  
-- 🐍 **AI Snake Game – Reinforcement Learning (Apr – Jun 2024)**  
-  Developed an autonomous Snake game using Deep Q-learning with PyTorch. Implemented real-time training visualization and adjustable game speed to analyze agent behavior.
 
-- 🤖 **Trading Bot Developer Intern – AITSOFT (Jan – Apr 2025)**  
+  - 🤖 **Trading Bot Developer Intern – AITSOFT**  
   Built automated trading strategies with Python and Freqtrade. Processed historical data using Pandas, applied technical indicators (EMA, RSI), and collaborated with traders to optimize bot performance.
+
+- 🐍 **AI Snake Game – Reinforcement Learning**  
+  Developed an autonomous Snake game using Deep Q-learning with PyTorch. Implemented real-time training visualization and adjustable game speed to analyze agent behavior.
 
 
 ---
